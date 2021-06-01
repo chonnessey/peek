@@ -1,4 +1,4 @@
-#walrus-showing {
+walrus-showing {
   display: none;
 }
 
@@ -9,4 +9,12 @@
 
 .clickable:hover {
   text-decoration: underline;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.green-background {
+  background-color: green;
 }
